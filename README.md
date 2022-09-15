@@ -53,3 +53,4 @@ Des Moines as a city is vastly different than New York City. There is less traff
 #### How Age Affects Different Metrics
 New York City has a slightly older average population (36.9 years old) compared to Des Moines (34 years old). With that being said, I think visualizations examining trends associated with age would be very valuable. If checkout durations, checkout counts, etc., increase as age decreases then we can be optimistic about the potential of ride sharing in Des Moines. On the other hand, if those metrics increase as age increases, then we may need to plan for how to appeal to a younger crowd.
 
+[link to Tableau Story](https://public.tableau.com/app/profile/kyle.disch3835/viz/bikesharing_challenge_16632610632370/UserTripsStory)
